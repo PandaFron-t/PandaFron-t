@@ -16,11 +16,11 @@ Utilizo este espaço para compartilhar minha evolução na tecnologia, documenta
 ## Tecnologias e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows](./assets/badges/windows.svg)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Photoshop](./assets/badges/photoshop.svg)
+![Canva](./assets/badges/canva.svg)
 
 ## Meus repositórios
 
