@@ -1,43 +1,32 @@
-# 👋 Olá, eu sou João Lucas Lima Faria
 
-🎓 Estudante de **Gestão da Tecnologia da Informação (GTI)** na Fatec Jahu.
+<div align="center">
 
-💻 Tenho experiência com **e-commerce, marketplaces e suporte técnico interno**, e atualmente estou direcionando meu desenvolvimento profissional para a área de tecnologia, principalmente **suporte, sistemas e infraestrutura**.
+# Olá, eu sou João! 👋
 
-## 🚀 Sobre mim
+**Tecnologia • Programação • Soluções digitais**
 
-- 🐍 Estudando Python e lógica de programação
-- 🛠️ Interesse em suporte técnico e infraestrutura
-- 🛒 Experiência com Mercado Livre, Shopee, TikTok Shop, Netshoes e Tray
-- 🤖 Desenvolvendo o **SyncBot**, bot para Discord do servidor SyncTwo
-- 📚 Sempre buscando aprender novas ferramentas e tecnologias
+</div>
 
-## 🧠 Tecnologias e ferramentas
+## Sobre mim
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+Sou estudante de **Gestão da Tecnologia da Informação na Fatec Jahu**, com experiência em operações digitais e interesse em programação, sistemas e infraestrutura.
 
-## 📂 Projetos
+Utilizo este espaço para compartilhar minha evolução na tecnologia, documentar aprendizados e desenvolver soluções práticas.
 
-### 🐍 Portfólio de Algoritmos em Python
-Portfólio acadêmico com exercícios e desafios de lógica de programação desenvolvidos em Python e pseudocódigo.
+## Tecnologias e ferramentas
 
-🔗 [Ver projeto](https://github.com/PandaFron-t/portfolio-algoritmos-python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### 🤖 SyncBot
-Bot para Discord desenvolvido em Python para gerenciamento, interação e melhoria da experiência no servidor SyncTwo.
+## Meus repositórios
 
-🚧 Projeto em desenvolvimento.
+Aqui você encontrará projetos acadêmicos, experimentos, automações e ferramentas que desenvolvo ao longo da minha jornada.
 
-## 🎯 Objetivo
+📂 **[Explorar meus repositórios →](https://github.com/PandaFron-t?tab=repositories)**
 
-Continuar desenvolvendo minhas habilidades em tecnologia e conquistar uma oportunidade profissional na área de **TI, suporte técnico ou sistemas**.
+---
 
-## 📫 Contato
-
-- Linkedin: [João Lucas Lima Faria](https://www.linkedin.com/in/jo%C3%A3olucaslimafaria/)
-- GitHub: [PandaFron-t](https://github.com/PandaFron-t)
+<div align="center">
+  <sub>Aprendendo, construindo e evoluindo.</sub>
+</div>
