@@ -39,5 +39,5 @@ Continuar desenvolvendo minhas habilidades em tecnologia e conquistar uma oportu
 
 ## 📫 Contato
 
-- LinkedIn: coloque aqui o seu link
+- Linkedin: [João Lucas Lima Faria](https://www.linkedin.com/in/jo%C3%A3olucaslimafaria/)
 - GitHub: [PandaFron-t](https://github.com/PandaFron-t)
