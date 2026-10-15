@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou João! 👋
+# Olá 👋
 
 **Tecnologia • Programação • Soluções digitais**
 
