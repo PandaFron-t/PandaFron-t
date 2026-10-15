@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá 👋
+# Desenvolvedor em formação, focado em transformar café em código e resolver problemas reais ☕
 
 **Tecnologia • Programação • Soluções digitais**
 
