@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="cover-title cover-desc">
+  <title id="cover-title">João Lima — tecnologia, código e design</title>
+  <desc id="cover-desc">Capa em grafite e verde suave. João Lima, estudante de Gestão de TI na Fatec Jahu, com foco em Python, design e e-commerce. Uma composição vetorial reúne tipografia, pontos de uma curva e símbolos de código.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#40534a" opacity=".55"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="24" fill="#0d1117" stroke="#29352f"/>
+  <path d="M697 35V325" stroke="#29352f"/>
+  <rect x="721" y="25" width="455" height="310" fill="url(#grid)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="56" y="44" width="8" height="8" rx="2" fill="#bde9d2"/>
+    <text x="78" y="55" fill="#bde9d2" font-size="15" font-weight="700" letter-spacing="2.3">PANDAFRON-T</text>
+    <text x="52" y="141" fill="#f4f7f5" font-size="68" font-weight="700" letter-spacing="-2">João Lima</text>
+    <text x="56" y="187" fill="#e2e9e5" font-size="29" font-weight="400">Tecnologia, código e design.</text>
+    <text x="56" y="225" fill="#a6b7ae" font-size="20">Gestão de TI · Fatec Jahu</text>
+
+    <g fill="#15231c" stroke="#354c40">
+      <rect x="56" y="274" width="132" height="36" rx="18"/>
+      <rect x="200" y="274" width="132" height="36" rx="18"/>
+      <rect x="344" y="274" width="156" height="36" rx="18"/>
+    </g>
+    <g fill="#c7e0d1" font-size="13" font-weight="700" letter-spacing="1.3" text-anchor="middle">
+      <text x="122" y="297">PYTHON</text>
+      <text x="266" y="297">DESIGN</text>
+      <text x="422" y="297">E-COMMERCE</text>
+    </g>
+  </g>
+
+  <g>
+    <rect x="748" y="56" width="390" height="244" rx="16" fill="#141d21" stroke="#41564a"/>
+    <path d="M748 96H1138" stroke="#32463c"/>
+    <g fill="#677b6f">
+      <circle cx="770" cy="77" r="3"/>
+      <circle cx="784" cy="77" r="3"/>
+      <circle cx="798" cy="77" r="3"/>
+    </g>
+    <text x="1116" y="82" fill="#98b5a4" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5">CRIAR / CONSTRUIR</text>
+
+    <rect x="774" y="119" width="198" height="156" rx="7" fill="#1b2922"/>
+    <text x="790" y="193" fill="#e1ede5" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-5">Aa</text>
+    <path d="M790 217H874M790 229H850" stroke="#718b7b" stroke-width="3" stroke-linecap="round"/>
+    <g>
+      <rect x="790" y="248" width="23" height="10" rx="2" fill="#bde9d2"/>
+      <rect x="819" y="248" width="23" height="10" rx="2" fill="#769e88"/>
+      <rect x="848" y="248" width="23" height="10" rx="2" fill="#3c5b49"/>
+    </g>
+
+    <path d="M899 254C891 180 1028 115 1097 147" fill="none" stroke="#bde9d2" stroke-width="3"/>
+    <path d="M899 254L896 189M1097 147L1054 127" stroke="#668674" stroke-width="1.5"/>
+    <g fill="#0d1117" stroke="#bde9d2" stroke-width="2">
+      <circle cx="896" cy="189" r="4"/>
+      <circle cx="1054" cy="127" r="4"/>
+      <rect x="894" y="249" width="10" height="10"/>
+      <rect x="1092" y="142" width="10" height="10"/>
+    </g>
+
+    <rect x="955" y="188" width="157" height="91" rx="12" fill="#0d1117" stroke="#6d9980"/>
+    <text x="1033" y="249" fill="#bde9d2" text-anchor="middle" font-family="monospace" font-size="48" font-weight="700">&lt;/&gt;</text>
+    <g fill="#bde9d2">
+      <rect x="744" y="52" width="8" height="8" rx="1"/>
+      <rect x="1134" y="296" width="8" height="8" rx="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,35 +1,32 @@
+![João Lima — tecnologia, código e design. Gestão de TI na Fatec Jahu.](./assets/profile-cover.svg)
 
-<div align="center">
+Sou **João Lucas Lima Faria**, estudante de **Gestão da Tecnologia da Informação na Fatec Jahu**. Trabalho com e-commerce e desenvolvo minha base em programação, combinando tecnologia com criação visual.
 
-# Desenvolvedor em formação, focado em transformar café em código e resolver problemas reais ☕
+## O que faço
 
-**Tecnologia • Programação • Soluções digitais**
+| Área | Na prática |
+| --- | --- |
+| **Programação** | Estudo lógica e algoritmos em Python, com exercícios de cálculos, validações e simulações de operações. |
+| **Design visual** | Criação de peças para redes sociais, edição de imagens e apresentação visual de produtos com Photoshop e Canva. |
+| **E-commerce** | Cadastro de produtos, organização de anúncios, fotos e apoio às rotinas de estoque e vendas. |
 
-</div>
+## Ferramentas
 
-## Sobre mim
-
-Sou estudante de **Gestão da Tecnologia da Informação na Fatec Jahu**, com experiência em operações digitais e interesse em programação, sistemas e infraestrutura.
-
-Utilizo este espaço para compartilhar minha evolução na tecnologia, documentar aprendizados e desenvolver soluções práticas.
-
-## Tecnologias e ferramentas
+**Programação e ambiente**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Windows](./assets/badges/windows.svg)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
-![Photoshop](./assets/badges/photoshop.svg)
+![Windows](./assets/badges/windows.svg)
+
+**Design e criação**
+
+![Adobe Photoshop](./assets/badges/photoshop.svg)
 ![Canva](./assets/badges/canva.svg)
 
-## Meus repositórios
+## Projeto em destaque
 
-Aqui você encontrará projetos acadêmicos, experimentos, automações e ferramentas que desenvolvo ao longo da minha jornada.
+### [Portfólio de algoritmos em Python ↗](https://github.com/PandaFron-t/portfolio-algoritmos-python)
 
-📂 **[Explorar meus repositórios →](https://github.com/PandaFron-t?tab=repositories)**
+23 exercícios organizados em fundamentos, condicionais, repetições e desafios práticos. Inclui simuladores de caixa, descontos e cálculos de vendas, com exemplos de execução, testes e o notebook acadêmico original.
 
----
-
-<div align="center">
-  <sub>Aprendendo, construindo e evoluindo.</sub>
-</div>
+**[Explorar todos os repositórios →](https://github.com/PandaFron-t?tab=repositories)**
